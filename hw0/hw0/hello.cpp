@@ -2,18 +2,19 @@
 //  hello.cpp
 //  hw0
 //
-//  Created by Owen Kelly on 1/22/21.
+//  Created by owen on 1/22/21.
 //
 
+#include "hello.hpp"
 #include <iostream>
 
 using std::cout;
 
-int main() {
-    std::cout << "Hello, World!\n";
-    std::cout << "Hello, World!\n";
-    std::cout << "Hello, World!\n";
-    std::cout << "Hello, World!\n";
-    std::cout << "Hello, World!\n";
+int hello() {
+    std::cout << "Hello, World";
+    std::cout << "Hello, World";
+    std::cout << "Hello, World";
+    std::cout << "Hello, World";
+    std::cout << "Hello, World";
     return 0;
 }
