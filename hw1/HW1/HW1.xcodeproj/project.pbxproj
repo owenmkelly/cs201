@@ -63,8 +63,9 @@
 				5A80E94E25C7CCFD00BD3A90 /* program2 */,
 				5A80E94525C52F0400BD3A90 /* diamond */,
 			);
-			path = HW1;
-			sourceTree = "<group>";
+			name = HW1;
+			path = /Users/owen/Desktop/cs201/hw1/HW1/HW1;
+			sourceTree = "<absolute>";
 		};
 		5A80E94525C52F0400BD3A90 /* diamond */ = {
 			isa = PBXGroup;
